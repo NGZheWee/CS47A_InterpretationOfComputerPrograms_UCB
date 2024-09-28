@@ -1,6 +1,6 @@
 # CS47A: Completion of Work in Computer Science 61A  (Fall 2023, UCB) 
 
-This repository contains coursework from **Completion of Work in Computer Science 61A**, which I took in Fall 2023 at UC Berkeley. The course is a self-paced version of 61A (Structure and Interpretation of Computer Programs) for students who have already taken a course equivalent to 61B.The course focuses on fundamental programming paradigms, abstraction mechanisms, and computational processes.
+This repository contains coursework from **Completion of Work in Computer Science 61A**, which I took in Fall 2023 at UC Berkeley. The course is a self-paced version of 61A (Structure and Interpretation of Computer Programs) for students who have already taken a course equivalent to 61A. The course focuses on fundamental programming paradigms, abstraction mechanisms, and computational processes.
 
 ## Contents:
 
