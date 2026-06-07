@@ -19,4 +19,6 @@ This repository contains coursework from **Completion of Work in Computer Scienc
 - **Homework**: All homework assignments are located under the `Homework/` directory, each containing code and documentation on programming techniques and problem-solving strategies.
 
 
-Explore the coursework to see implementations of programming paradigms and abstractions, focusing on functional programming and the interpretation of computational processes.
+## Academic Integrity Note
+
+This repository contains my own coursework submissions and related learning artifacts, shared for portfolio review only; do not copy or submit this material for active or future coursework, and follow your institution's academic integrity policies.
